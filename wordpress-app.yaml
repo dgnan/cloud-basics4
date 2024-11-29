@@ -93,7 +93,31 @@ Parameters:
     ConstraintDescription: must be the name of an existing EC2 KeyPair.
     Description: Name of an existing EC2 KeyPair to enable SSH access to the instances
     Type: AWS::EC2::KeyPair::KeyName
-    Default: EC2_keypair_dhivya #update your ec2 key here-test
+    Default: MIIEogIBAAKCAQEAoeSBCIhQtugIpxhqhMK6tFJf+C0npNf1lbjGECYnYRBAQ41j
+IfoN50m18nc6MbCjH2xT5MzxXslUF840EUExMcSlGuuqDr1euvjLOKwhkjdgY3ar
+DZ99bqcEvbxUJtpR1JuKBCHNJ2j7w8tfxjoNJm23x4xEvOzQuycslALoDU69SvTu
+ATsqkDw/uvbB3qbP/KlAYuqCU2LF4bekYwCk8330LPYByAMDWdDXwWc7RqOsPm6p
+cis8e2/JiCthw7G8SRt06y8r4dXV+x6diUj/5ym8Fyl19Nx+4ClwXRS2EcLdSn6n
+BOfkJ4rzByrSPFbDOrHBHgeKqBJn5C5IWZNG7wIDAQABAoIBABMcv+L6/NRrFkJr
+zn934cTSCMRqyEhcuoB/fNqBNprt6ThQY8iqFaQdfp5uVu9w1AEsr8bOLxyqlgPt
+cxYqZR1kAr3n3n64+osGPi+lmp0Bbp6vbsg/8PX0P8oKhsDDe2+nIScVunuRmE9o
+Hhlv1weXYl/rfl3zczz1Bf0/TpfraBCAvBXoniizTYrcB8+5G/Qs2GnoLmt1s55/
++RYRZEhMbeG2eAEdiNTqzY5eIe/eGEy/iHYTOPXf8PJl905loHXzpr+AFw97ecwZ
+Gc8KP75bspbwJi33Zwftiof9fXWd0rn3eyenWFUTtEfa02NzNqQtda3rY4Z2k7uj
+G/SctDkCgYEA8E1ros992w+skzIyHQxaX6yuXPAU/9eJ4GFIO+Uy1oKDwJ7zh2ef
+kC7bpPZs63Pzfz0Tf3vHFkzZ/Em556HHIwhZjDpDbei6I3rWAqb2tidzesQbGMLy
+cFAwBl7kbS+V0dyNERyGIezaTsIUzsVk6JaHQIIlLwodK2T4QPPlso0CgYEArHfV
+1t6ZilrTbf418nySIdoYUSz/yPj7LDyV757XwRWIRjYma7MGHG4J7cQjj+n7HTHN
+V8TWEbKK2wfAiJRvc2GkmmaDCKqSvN8mS8y2lZDgzsli9y58qzjV1Fo88UN6SxBu
+ShDuUOPEapRT4S00jlP1PF6SAY6aErMyeAmBvmsCgYB0GQOKynKE1sLK7vJ1RFWZ
+acVoE3ohzVHIvVd30JlKOA5Njr4byj22HF10Cra+3utiqvBzpCqgpIqgsEIIHgom
+687PyApx3IGpyJwC9gW2JcNOKdbplK4rAyLgwRHdiqL4nHTvMne/hj5G1M/Wwlmp
+YaiAyyAJ5PoI0CR8xRlRtQKBgE0CSTJjPK3BdmzDuLTomJuS9Y6xiBjly8lp2A0h
+oPbvNWUcYrVuP4lMPRS0oqhs8pqLlUPeeTN3xHaelIKnvMgJTmU+5r1k5JZ/EWuB
+IfnQsgDDfXQfhr0xaJEkJdgYqC+CS6y4uKDXwulQB9AgzjnLFVJ6a7lUQkmdSCi/
+Hfa3AoGACFduGUz3ZafOKpp05ACU+ZjzHSXTvgVObMcetIxosmWTqii1GL92lRMt
+yiwONaIqz8y9EzTcYmrqbk0KSoimG5x3PF7IId6R1o9PZO7g7BmYA6UGNg+Dzbuf
+JxW/7eYBg2Fu7FS8DvTt8qfc4a/Z1FJVC9+nMI739Za525PFSu4= #update your ec2 key here-test
   SSHLocation:
     AllowedPattern: (\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})/(\d{1,2})
     ConstraintDescription: must be a valid IP CIDR range of the form x.x.x.x/x.
